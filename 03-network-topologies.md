@@ -17,7 +17,7 @@ There are several types of network topologies used in computer networks.
 - Mesh Topology
 - Tree Topology
 
-## 3. Star Topology
+
 
 ## 3. Star Topology
 
