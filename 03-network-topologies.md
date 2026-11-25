@@ -21,7 +21,7 @@ There are several types of network topologies used in computer networks.
 
 ## 3. Star Topology
 
-![Star Topology](images/star-topology.png)
+![Star Topology](images/Star%20Topology.drawio.png)
 
 Star topology is a network structure where all devices are connected to a central device such as a switch or hub.
 
