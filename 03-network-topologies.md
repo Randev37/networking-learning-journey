@@ -41,6 +41,8 @@ Star topology is commonly used in home networks, offices, and computer laborator
 
 ## 4. Bus Topology
 
+![Bus Topology](images/Bus%20Topology.drawio.png)
+
 Bus topology is a network structure where all devices are connected to a single main cable called a backbone.
 
 ### Advantages
@@ -56,6 +58,8 @@ Bus topology is a network structure where all devices are connected to a single 
 Bus topology was commonly used in older computer networks.
 
 ## 5. Ring Topology
+
+![Ring Topology](images/Ring%20Topology.drawio.png)
 
 Ring topology is a network structure where devices are connected in a circular arrangement. Each device is connected to its neighboring devices.
 
@@ -73,6 +77,8 @@ Data travels around the ring from one device to another.
 Ring topology has been used in some older network systems and specialized networks.
 
 ## 6. Mesh Topology
+
+![Mesh Topology](images/Mesh%20Topology.drawio.png)
 
 Mesh topology is a network structure where devices are connected to multiple other devices.
 
@@ -92,6 +98,8 @@ In a full mesh topology, every device is connected to every other device. In a p
 Mesh topology is used in wireless mesh networks and some critical network infrastructures.
 
 ## 7. Tree Topology
+
+![Tree Topology](images/Tree%20Topology.drawio.png)
 
 Tree topology is a network structure that combines multiple star networks in a hierarchical arrangement.
 
